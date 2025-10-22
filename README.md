@@ -5,6 +5,8 @@ Ikuti langkah-langkah berikut secara berurutan. Jalankan setiap perintah di term
 1. Clone Repository
 https://github.com/adinugraha12/soal_test.git
 
+buka forder dengan perintah
+
 cd soal_test
 
 2. Instal Dependensi PHP
